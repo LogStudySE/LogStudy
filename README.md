@@ -21,6 +21,8 @@ As GitHub does not hold large datasets, you can download the benchmark dataset a
 ## LogBench-O
 ## LogBench-T
 
+# Demo Results of each Baseline
+
 # Code Transformation Tool
 The folder `/src` includes source code.
 
