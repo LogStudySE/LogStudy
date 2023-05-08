@@ -1,6 +1,7 @@
 # LogStudy
 LogBench is the benchmark for evaluating the performance of LLMs in logging statement generation.
 Here is the overview of the study:
+![overview](img/overview.png)
 # Download the Datasets
 As GitHub does not hold large datasets, you can download the benchmark dataset at Placeholder
 
