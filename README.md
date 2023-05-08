@@ -23,7 +23,7 @@ As GitHub does not hold large datasets, you can download the benchmark dataset a
 ## LogBench-T
 
 # Example Results of each Baseline
-The folder `/build` contains the sampled outputs of each baseline.
+The folder `/examples` contains the sampled outputs of each baseline.
 
 # Code Transformation Tool
 The folder `/src` includes source code.
