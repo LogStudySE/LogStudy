@@ -26,10 +26,6 @@ The folder `/LogBench-O` contains the sampled files of LogBench-O.
 The folder `/LogBench-T` contains the sampled files of LogBench-T.
 
 
-# Example Results of each Baseline
-The folder `/examples` contains the sampled outputs of each baseline.
-
 # Code Transformation Tool
-The folder `/src` includes source code.
 
 The folder `/build` contains the built tranformation tool.
