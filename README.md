@@ -20,7 +20,10 @@ As GitHub does not hold large datasets, you can download the whole benchmark dat
 # Benchmark Details
 ## Task Definition
 ## LogBench-O
+The folder `/LogBench-O` contains the sampled files of LogBench-O.
 ## LogBench-T
+The folder `/LogBench-T` contains the sampled files of LogBench-T.
+
 
 # Example Results of each Baseline
 The folder `/examples` contains the sampled outputs of each baseline.
