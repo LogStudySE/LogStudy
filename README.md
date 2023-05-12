@@ -18,6 +18,7 @@ As GitHub does not hold large datasets, you can download the whole benchmark dat
 | Code Whisper | Plugin | 2022 |
 
 # Benchmark Details
+Currently LogBench contains two sub-dataset for evaluating the performance of current code/log generation models, namely LogBench-O and LogBench-T.
 ## Task Definition
 ## LogBench-O
 The folder `/LogBench-O` contains the sampled files of LogBench-O.
