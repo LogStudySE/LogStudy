@@ -3,7 +3,7 @@ LogBench is the benchmark for evaluating the performance of LLMs in logging stat
 Here is the overview of the study:
 ![overview](img/overview.png)
 # Download the Datasets
-As GitHub does not hold large datasets, you can download the benchmark dataset LogBench-O at [here](https://drive.google.com/file/d/1KS4xrHkzggbmorK9OwGmTLa7QYmRsDGQ/view?usp=share_link)
+As GitHub does not hold large datasets, you can download the whole benchmark dataset LogBench-O at [here](https://drive.google.com/file/d/1KS4xrHkzggbmorK9OwGmTLa7QYmRsDGQ/view?usp=share_link)
 
 # Study Objects
 | Model        | Access | Year |
