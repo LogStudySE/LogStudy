@@ -27,4 +27,4 @@ The folder `/LogBench-T` contains the sampled files of LogBench-T.
 
 # Additional: Code Transformation Tool
 
-The folder `/build` contains the built tranformation tool.
+The folder `/build` contains the built tranformation tool we developed.
