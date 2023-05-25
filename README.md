@@ -24,6 +24,8 @@ Currently LogBench contains two sub-dataset for evaluating the performance of cu
 The folder `/LogBench-O` contains the sampled files of LogBench-O.
 ## LogBench-T
 The folder `/LogBench-T` contains the sampled files of LogBench-T.
+## Cases
+Please refer to the `cases` folder for generated cases
 
 
 # Additional: Code Transformation Tool
