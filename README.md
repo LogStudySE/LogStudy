@@ -31,3 +31,7 @@ Please refer to the `cases` folder for generated cases
 # Additional: Code Transformation Tool
 
 The folder `/build` contains the built tranformation tool we developed. It will conduct the code tranformation automatically with the seven code transformers.
+- To conduct the code transformation in batch.
+```
+java -jar code-transformer.jar -f ./files/
+```
